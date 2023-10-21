@@ -1,3 +1,3 @@
-# Contactless-Fingerprint-Gradio-Demo
-Contactless Fingerprint Gradio Demo
+# Contactless-Fingerprint-Expo App -Demo- Server
+Contactless Fingerprint Expo Demo Server
 
