@@ -1,0 +1,15 @@
+Collecting mmcv-full
+  Downloading mmcv-full-1.7.1.tar.gz (605 kB)
+     -------------------------------------- 605.4/605.4 kB 4.8 MB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: addict in c:\python311\lib\site-packages (from mmcv-full) (2.4.0)
+Requirement already satisfied: numpy in c:\python311\lib\site-packages (from mmcv-full) (1.23.5)
+Requirement already satisfied: packaging in c:\python311\lib\site-packages (from mmcv-full) (23.0)
+Requirement already satisfied: Pillow in c:\python311\lib\site-packages (from mmcv-full) (9.4.0)
+Requirement already satisfied: pyyaml in c:\python311\lib\site-packages (from mmcv-full) (6.0)
+Requirement already satisfied: yapf in c:\python311\lib\site-packages (from mmcv-full) (0.32.0)
+Requirement already satisfied: regex in c:\python311\lib\site-packages (from mmcv-full) (2023.3.23)
+Building wheels for collected packages: mmcv-full
+  Building wheel for mmcv-full (setup.py): started
+  Building wheel for mmcv-full (setup.py): finished with status 'canceled'
